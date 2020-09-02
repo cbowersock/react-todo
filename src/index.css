@@ -1,0 +1,20 @@
+.todo {
+    display: flex;
+    text-align: left;
+    border-style: solid;
+    margin-left: 5px;
+    margin-right: 5x;
+    margin-bottom: 5px;
+    background: linear-gradient(#e6a7ca, #8ec8d3 80%);
+    padding: 5px 5px 5px 5px;
+    border-radius: 15px;
+    font-family: sans-serif;
+    width: 70%;
+  }
+
+.list {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    width: 50%;
+}
